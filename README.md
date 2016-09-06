@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everybody!
+
+I'm Rebeccah and I'm taking this class!
